@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Nike",
+    "image": "images/nike.png",
+    "price": 1500
+  },
+  {
+    "name": "Adidas",
+    "image": "images/adidas.png",
+    "price": 1700
+  },
+  {
+    "name": "Puma",
+    "image": "images/puma.jpg",
+    "price": 1400
+  },
+  {
+    "name": "Under Armor",
+    "image": "images/under.png",
+    "price": 2100
+  },
+  {
+    "name": "Hoka",
+    "image": "images/hoka.png",
+    "price": 2500
+  }
+]
